@@ -6,8 +6,8 @@ temperatura = st.number_input(
 
 
 if temperatura <10: 
-st.write("Hace frio.")
+   st.write("Hace frio.")
 elif temperatura <=24: 
-st write("La temperatura es agradable.")
+   st write("La temperatura es agradable.")
 else: 
-st.write("Hace calor.")
+   st.write("Hace calor.")
